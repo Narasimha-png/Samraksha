@@ -1,0 +1,33 @@
+*{
+    font-family: "Roboto", serif;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 0px 4vw;
+    padding-bottom: 25px;
+}
+
+@media (max-width:581px) {
+    nav{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    ul{
+        gap: 2px;
+    }
+    .model-select{
+        padding: 10px 2px;
+    }
+    .btn-style{
+        width: 170px;
+        font-size: 14px;
+    }
+    .welcome-txt{
+        
+        font-size: 40px ;
+        font-weight: 800;
+        text-align: center;
+    }
+}

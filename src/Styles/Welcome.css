@@ -1,0 +1,44 @@
+.welcome-div{
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    padding :0px 5vw ;
+    justify-content: center;    
+}
+.welcome-txt{
+    color: lightgray;
+    font-size: 60px ;
+    font-weight: 800;
+    text-align: center;
+}
+ul{
+    gap: 2px ;
+}
+.styled-text{
+    color: #4ca414;
+}
+.upload-btns{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+}
+.welcome-div{
+    display: flex;
+    flex-direction: column;
+    gap: 10vh;
+    height: 75vh;
+    justify-content: center;
+}
+.btn-style{
+    white-space: nowrap;
+    width: 200px;
+    padding: 20px 20px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 30px;
+    background-color: transparent;
+    color: lightgray;
+    font-size: 18px;
+    border: 1px solid #4ca414;
+}
