@@ -34,7 +34,7 @@
     border: 1px solid lightgrey;
 }
 .feature-ground{
-    padding: 4px 10px;
+    padding: 10px 15px;
 }
 .ground-features{
     display: flex;
@@ -50,6 +50,6 @@
     text-decoration: none;
     color: grey;
    
-    transform: scale(1.5);
+    transform: scale(1.8);
    
 }
